@@ -8,3 +8,6 @@
 	path = Retro-Routes-Client-Service
 	url = https://github.com/iamsribin/Retro-Routes-Client-Service
  
+[submodule "Retro-Routes-Driver-service"]
+	path = Retro-Routes-Driver-service
+	url = https://github.com/iamsribin/Retro-Routes-Driver-service
