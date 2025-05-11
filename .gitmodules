@@ -17,3 +17,7 @@
 [submodule "Retro-Routes-Auth-Service"]
 	path = Retro-Routes-Auth-Service
 	url = https://github.com/iamsribin/Retro-Routes-Auth-Service 
+
+[submodule "Retro-Routes-Booking-service"]
+	path = Retro-Routes-Booking-service
+	url = https://github.com/iamsribin/Retro-Routes-Booking-service 
