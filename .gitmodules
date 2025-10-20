@@ -15,10 +15,14 @@
 	path = Retro-Routes-Driver-service
 	url = https://github.com/iamsribin/Retro-Routes-Driver-service
 
-[submodule "Retro-Routes-Auth-Service"]
-	path = Retro-Routes-Auth-Service
+[submodule "Retro-Routes-Payment-Service"]
+	path = Retro-Routes-Payment-Service
 	url = https://github.com/iamsribin/Retro-Routes-Auth-Service 
 
 [submodule "Retro-Routes-Booking-service"]
 	path = Retro-Routes-Booking-service
+	url = https://github.com/iamsribin/Retro-Routes-Booking-service 
+
+[submodule "Retro-Routes-Realtime-Service"]
+	path = Retro-Routes-Realtime-Service
 	url = https://github.com/iamsribin/Retro-Routes-Booking-service 
